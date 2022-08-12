@@ -1,0 +1,2 @@
+Prepare Japanese summarization dataset
+Fine-tune Japanese T5v model
